@@ -1,10 +1,8 @@
 👋 Hi, I’m Kruti!! I'm currently working as a Software Engineer in an EdTech company
 
 📧 [Gmail](krutis0201@gmail.com)
-
-📫 [LinkedIn](www.linkedin.com/in/kruti-shah-0201)
-
-
+| 📫 [LinkedIn](www.linkedin.com/in/kruti-shah-0201)
+| 📄 [Resume](./Kruti_Shah_Resume.pdf)
 
 <!---
 kruti0201/kruti0201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
